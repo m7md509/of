@@ -9,7 +9,7 @@
         "slbotzone Bots"
     ],
     "website": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA/videos",
-    "repository": "https://github.com/Dinuraofficial/Telegram-Music-Download-Bot",
+    "repository": "https://github.com/m7md509/of",
     "success_url": "https://t.me/slbotzone",
     "env": {
         "TG_BOT_TOKEN": {
